@@ -1,15 +1,13 @@
 # 🧪 Relatório de Avaliação – Autograder HTML - mariiiaofc0
 
-**Data:** 08/05/2025 18:55
+**Data:** 08/05/2025 19:04
 
-**Nota Final:** `65.00/100`
-**Status:** ❌ Reprovado
+**Nota Final:** `73.00/100`
+**Status:** ✅ Aprovado
 
 ---
 ## ✅ Requisitos Obrigatórios (80%)
-- Foram encontrados `1` problemas nos requisitos obrigatórios. Veja abaixo os testes que falharam:
-  - ⚠️ **Falhou no teste**: `test_base.py::test_button_class`
-    - **Melhoria sugerida**: O botão está sem a classe 'btn' ou não é interativo. Certifique-se de que o botão tenha a classe 'btn' e seja interativo usando JavaScript ou um link.
+- Todos os requisitos básicos foram atendidos. Excelente trabalho!
 
 ## ⭐ Itens de Destaque (20%)
 - Você conquistou `2` bônus! Excelente trabalho nos detalhes adicionais!
